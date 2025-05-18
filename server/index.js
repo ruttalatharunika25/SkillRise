@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use(cors({
-    origin:true,
+    origin:"https://skillrise-r6gi.onrender.com",
     credentials:true
 }));
  
