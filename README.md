@@ -22,9 +22,6 @@ SkillRise is a full-stack Learning Management System built using the MERN stack.
 - Media uploads with **Multer** and **Cloudinary**
 - Admin dashboard for course and user management
 
-### ☁️ Deployment
-- Deployed on **Render** with environment-specific configurations
-
 ### 🌟 Admin Features
 - Create, update, delete courses
 
@@ -49,9 +46,5 @@ SkillRise is a full-stack Learning Management System built using the MERN stack.
 ### 🌍 Deployment
 - The app is deployed on Render. Configure your build and start scripts appropriately and ensure that environment variables are set in Render’s dashboard.
 
-
-Cloudinary
-
-Shadcn UI
 
 
